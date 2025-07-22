@@ -4,7 +4,7 @@ answer = input ("Now pick a direction left or right ").lower()
 
 if answer == "left":
     print("You've entered pochinki")
-    q2 = input(("Now L or R" : )).lower
+    q2 = input("Now L or R :" ).lower
     
     if q2 == "l" or q2 == "r":
         print("you've been killed ")
